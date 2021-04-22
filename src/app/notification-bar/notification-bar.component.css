@@ -1,0 +1,8 @@
+.center{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    border-bottom: groove;
+    color: rgba(0, 0, 255, 0.781);
+    font-weight: bold;
+}

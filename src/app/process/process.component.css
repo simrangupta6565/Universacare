@@ -1,0 +1,98 @@
+.container{
+    padding: 5% ;
+    background: radial-gradient(80.11% 80.11% at 50% 19.89%, #F3F5F9 0%, rgba(243, 245, 249, 0.5) 100%), #FFFFFF;
+}
+.mat-display-2{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+
+text-align: center;
+
+color: #2B2D42;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .part{
+      padding: 15%;
+  }
+
+  .img-container{
+      text-align: center;
+  }
+  .mat-h2{
+    
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.005em;
+    
+    color: #2B2D42;
+    
+    
+    /* Inside Auto Layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 20px 0px;
+
+  }
+  .mat-body{
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: -0.005em;
+    
+    color: #2B2D42;
+  }
+
+
+  /* chap */
+  .container-center{
+    padding: 5% 15% 5% 15% ;
+  }
+  .mat-h1{
+padding-top: 5%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+/* font-size: 30px;
+line-height: 37px; */
+/* identical to box height */
+
+letter-spacing: -0.005em;
+
+color: #2B2D42;
+  }
+
+  .mat-h3{
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+/* font-size: 18px;
+line-height: 29px; */
+/* or 161% */
+text-align: left;
+letter-spacing: -0.007em;
+
+color: #2B2D42;
+  }

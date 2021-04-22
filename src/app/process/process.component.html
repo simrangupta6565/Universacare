@@ -1,0 +1,33 @@
+<div class="container">
+    
+    <div class="mat-display-2">How We Find Best Careviver For You</div>
+    <div  fxLayout.lt-sm ="column" fxLayout="row wrap" fxLayoutGap="32px" fxLayoutAlign="flex-start">
+        <div fxFlex="0 1 calc(25% - 32px)" fxFlex.lt-md="0 1 calc(50% - 32px)"
+        fxFlex.lt-sm="100%" *ngFor="let folder of folders">
+        <div class="part">
+            <div class="img-container">
+                <img src="assets\images\Frame 314.png">
+            </div>
+            <div class="mat-h2">{{folder.name}}</div>
+            <div class="mat-body"> {{folder.detail}} </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container-center">
+    <div fxLayout = "row" fxLayout.lt-lg ="column" >
+        <div fxFlex="30"style="text-align:center" >
+            
+                <img src = "assets\images\chap.png"  >
+            
+           
+        </div>
+        <div fxFlex="70" fxFlexAlign="strech" >
+            <div class="mat-h1">CHAP Accreditation and this line can be about this big</div>
+            <div class="mat-h3">UniversaCare, LLC will provide the following home health care programs at flexible schedules and cost-friendly service rates. </div>
+        </div>
+    </div>
+</div>

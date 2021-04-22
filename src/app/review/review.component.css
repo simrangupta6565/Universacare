@@ -1,0 +1,83 @@
+.container{
+    
+    background: linear-gradient(95.15deg, #FFF1E1 0%, #FFFBF7 87.89%, #FFFFFF 99.36%);
+}
+
+.mat-display-2{
+
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+text-align: left;
+
+color: #2B2D42;
+
+
+
+}
+.mat-body{
+    position: static;
+width: 250px;
+height: 52px;
+left: 0px;
+top: 112px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: -0.005em;
+
+color: #2B2D42;
+
+}
+
+.example-card{
+    min-height: 200px;
+    margin: 0 5% 0 ;
+    
+}
+.mat-card-header{
+    
+padding-bottom: 5%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #2B2D42;
+
+}
+.mat-card-content{
+padding-top: 5%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.005em;
+text-align: left;
+color: #2B2D42;
+
+
+}
+.checked {
+    color: orange;
+  }
+
+  .star{
+      font-size: 30px;
+      padding-bottom: 5%;
+      text-align: left;
+  }
+
+  .part1{
+      padding: 20% 20% 20%;
+  }
+  .part2{
+      padding: 20% 10% 20%;
+  }
